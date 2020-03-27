@@ -1,0 +1,2 @@
+# latihan-tabel
+cloning tabel
